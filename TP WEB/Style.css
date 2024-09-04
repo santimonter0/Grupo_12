@@ -1,0 +1,126 @@
+
+body{
+    padding: 10px;
+    margin: 0px;
+}
+
+header{
+    background-color: yellow;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+header nav input[type="search"]{
+    padding: 5px;
+    width: 30%;
+    height: 30px;
+    border-radius: 5%;
+    outline: none;
+}
+
+header nav .Carrito{
+    display: flex;
+    width: -100px;
+    height: 60px;
+    padding-bottom: 10px;
+}
+
+header nav .Logo{
+    display: flex;
+    width: -100px;
+    height: 60px;
+    padding-bottom: 10px;
+}
+
+.img_Menu img{
+    width: 100%;
+    
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 160px;
+}
+
+ul li .Columna1{
+    padding: 40px;
+    margin: 0px 20px;
+    background-color: blue;
+}
+
+ul li .Columna2{
+    padding: 40px;
+    margin: 0px 20px;
+    background-color: blue;
+}
+
+ul li .Columna3{
+    padding: 40px;
+    margin: 0px 20px;
+    background-color: blue;
+}
+
+section h2{
+    padding-top: 80px;
+    text-align: center;
+
+}
+
+section .Cursos{
+    display:flex;
+    justify-content: space-between;
+    padding: 0px 190px; 
+}
+
+section .Cursos .C1{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
+
+section .Cursos .C2{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
+
+section .Cursos .C3{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
+
+section .Cursos2{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-left: 190px;
+    padding-right: 190px;
+}
+
+section .Cursos2 .C4{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
+
+section .Cursos2 .C5{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
+
+section .Cursos2 .C6{
+    padding: 30px;
+    margin: 0px 40px;
+    background-color: blue;
+}
